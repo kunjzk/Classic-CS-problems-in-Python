@@ -1,6 +1,6 @@
 # Classic CS problems in python
 
-Exercises from the (book)[https://www.manning.com/books/classic-computer-science-problems-in-python] by David Kopec.
+Exercises from the [book]([https://www.manning.com/books/classic-computer-science-problems-in-python) by David Kopec.
 
 # To run locally
 
